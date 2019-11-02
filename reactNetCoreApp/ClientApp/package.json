@@ -8,7 +8,7 @@
     "@material-ui/icons": "^3.0.1",
     "es6-promise": "^4.2.5",
     "isomorphic-fetch": "^2.2.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "powerbi-client": "^2.7.3",
     "prop-types": "^15.6.2",
     "jquery": "3.3.1",
